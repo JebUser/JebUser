@@ -8,7 +8,7 @@
 - Conozco los lenguajes de python, C, C++, C#, JS (Actualmente aprendiendo)
 - He trabajado con Frameworks como React y StreamLit
 
-# INGÉS/ENGLISH
+# INGLÉS/ENGLISH
 ## Hi! I'm Juanes
 - 👋 Hello, I'm @JebUser or you can call me Juanes
 - I understand english (currently B2) although I try to improve
